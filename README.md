@@ -1,6 +1,6 @@
-# Hi there, I''m Eric! 👋
+# Hi there, I'm Eric! 👋
 
-I''m a Software Engineer focused on building robust systems, AI-agentic workflows, and automated tools. I maintain **Eric''s Engineering Constitution**, a framework for high-standard software development.
+I'm a Software Engineer focused on building robust systems, AI-agentic workflows, and automated tools. I maintain **Eric's Engineering Constitution**, a framework for high-standard software development.
 
 ## 🛠 Expertise
 
@@ -39,7 +39,7 @@ A track of my academic journey and technical foundations.
 
 ## 🚀 Featured Projects
 
-### [Eric''s Engineering Constitution](https://github.com/esanacore/engineering-constitution)
+### [Eric's Engineering Constitution](https://github.com/esanacore/engineering-constitution)
 The authoritative framework for AI-assisted software development standards.
 
 ### [DevLaunchpad](https://github.com/esanacore/DevLaunchpad)
@@ -52,7 +52,7 @@ A desktop exam simulator for ISTQB Certified Tester Foundation Level practice.
 
 <!-- 
 ### Stats (Experimental)
-![Eric''s GitHub stats](https://github-readme-stats.vercel.app/api?username=esanacore&show_icons=true&theme=radical)
+![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=esanacore&show_icons=true&theme=radical)
 -->
 
 "Engineering is the art of organizing and directing men and controlling the forces and materials of nature for the benefit of the human race."
