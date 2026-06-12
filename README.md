@@ -30,10 +30,18 @@ A track of my academic journey and technical foundations.
 
 | Course Code | Course Name | Grade | Status |
 | :--- | :--- | :---: | :--- |
-| CS 300 | Data Structures and Algorithms | - | <!-- Placeholder: A --> Completed |
-| CS 360 | Mobile Architecture and Programming | - | <!-- Placeholder: A --> Completed |
-| CS 465 | Full Stack Development I | - | <!-- Placeholder: A --> Completed |
-| <!-- Next Course --> | <!-- Name --> | - | Upcoming |
+| IT 140 | Introduction to Scripting | A | Completed |
+| IT 145 | Foundation in Application Development | A | Completed |
+| MAT 230 | Discrete Mathematics | A | Completed |
+| CS 210 | Programming Languages | A | Completed |
+| CS 230 | Operating Platforms | A | Completed |
+| CS 300 | Data Structures and Algorithms | A | Completed |
+| CS 305 | Software Security | A | Completed |
+| CS 320 | Software Test Automation & QA | A | Completed |
+| CS 360 | Mobile Architecture & Programming | A | Completed |
+| CS 370 | Current Trends in Computer Science | A | Completed |
+| CS 465 | Full Stack Development I | A | Completed |
+| <!-- Next --> | <!-- Name --> | - | Upcoming |
 
 ---
 
