@@ -1,5 +1,7 @@
 # Hi there, I'm Eric! 👋
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-sanacore-76164a27/)
+
 I'm a Software Engineer focused on building robust systems, AI-agentic workflows, and automated tools. I maintain **Eric's Engineering Constitution**, a framework for high-standard software development.
 
 ## 🛠 Expertise
