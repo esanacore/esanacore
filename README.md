@@ -44,7 +44,7 @@ I'm a Software Engineer focused on building robust systems, AI-agentic workflows
 ![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=JetBrains&logoColor=white)
 
 ### Certifications & Domains
-![MCP](https://img.shields.io/badge/Microsoft%20Certified-Professional-0078d4?style=for-the-badge&logo=microsoft&logoColor=white)
+![MCP](https://img.shields.io/badge/Model%20Context%20Protocol-blue?style=for-the-badge&logo=anthropic&logoColor=white)
 ![AI Engineering](https://img.shields.io/badge/AI_Engineering-FF6F61?style=for-the-badge&logo=openai&logoColor=white)
 ![Software Testing](https://img.shields.io/badge/Software_Testing-00A4EF?style=for-the-badge&logo=testcafe&logoColor=white)
 
