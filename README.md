@@ -59,4 +59,6 @@ A desktop exam simulator for ISTQB Certified Tester Foundation Level practice.
 ![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=esanacore&show_icons=true&theme=radical)
 -->
 
-"Engineering is the art of organizing and directing men and controlling the forces and materials of nature for the benefit of the human race."
+“The best way to predict the future is to invent it.”
+
+— Alan Kay
