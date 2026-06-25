@@ -5,7 +5,7 @@
 <!-- CONSTITUTION_START -->
 [![Eric's Engineering Constitution](https://img.shields.io/badge/Eric's%20Engineering%20Constitution-Adopted-blue)](https://github.com/esanacore/engineering-constitution)
 <!-- CONSTITUTION_END -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-sanacore-76164a27/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esanacore)
 
 I'm a Software Engineer focused on building robust systems, AI-agentic workflows, and automated tools. I maintain **Eric's Engineering Constitution**, a framework for high-standard software development.
 
