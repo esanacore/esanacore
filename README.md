@@ -50,10 +50,10 @@ The authoritative framework for AI-assisted software development standards.
 A Microsoft PowerToys Command Palette extension for managing developer workflows.
 
 ### [AI Process Engineer](https://github.com/esanacore/AI-Process-Engineer)
-An AI-focused engineering project centered on process design, workflow quality, and practical automation.
+Local-first desktop application that observes how people perform real-world tasks and turns those observations into actionable organizational knowledge.
 
 ### 🎮 🌱 [Project Greenhouse](https://github.com/esanacore/Project-Greenhouse)
-A featured project with game-inspired and growth-oriented themes around experimentation, iteration, and cultivation.
+A cozy, realistic plant-care and greenhouse-restoration game about inheritance, patience, and living legacy.
 
 ---
 
