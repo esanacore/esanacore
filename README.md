@@ -31,12 +31,17 @@ A track of my academic journey and technical foundations.
 | MAT 230 | Discrete Mathematics | A | Completed |
 | CS 210 | Programming Languages | A | Completed |
 | CS 230 | Operating Platforms | A | Completed |
+| CS 231 | Database Systems | A | Completed |
 | CS 300 | Data Structures and Algorithms | A | Completed |
 | CS 305 | Software Security | A | Completed |
 | CS 320 | Software Test Automation & QA | A | Completed |
 | CS 360 | Mobile Architecture & Programming | A | Completed |
 | CS 370 | Current Trends in Computer Science | A | Completed |
 | CS 465 | Full Stack Development I | A | Completed |
+| MAT 350 | Applied Linear Algebra | - | In Progress |
+| CS 255 | System Analysis and Design | - | In Progress |
+| CS 250 | Software Development Lifecycle | - | In Progress |
+| CS 499 | Computer Science Capstone | - | Upcoming |
 | <!-- Next --> | <!-- Name --> | - | Upcoming |
 
 ---
