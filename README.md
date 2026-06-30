@@ -38,7 +38,7 @@ A track of my academic journey and technical foundations.
 | CS 360 | Mobile Architecture & Programming | A | Completed |
 | CS 370 | Current Trends in Computer Science | A | Completed |
 | CS 465 | Full Stack Development I | A | Completed |
-| MAT 350 | Applied Linear Algebra | - | In Progress |
+| MAT 350 | Applied Linear Algebra | A | In Progress |
 | CS 255 | System Analysis and Design | - | In Progress |
 | CS 250 | Software Development Lifecycle | - | In Progress |
 | CS 499 | Computer Science Capstone | - | Upcoming |
