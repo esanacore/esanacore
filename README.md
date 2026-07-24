@@ -40,7 +40,7 @@ A track of my academic journey and technical foundations.
 | CS 465 | Full Stack Development I | A | Completed |
 | MAT 350 | Applied Linear Algebra | A | Completed |
 | CS 250 | Software Development Lifecycle | A | Completed |
-| CS 255 | System Analysis and Design | - | In Progress |
+| CS 255 | System Analysis and Design | A | Completed |
 | CS 499 | Computer Science Capstone | - | In-progress |
 | QSO 440 | Topics in Project Management | - | In-progress |
 | QSO 355 | Resource Estimation & Scheduling | - | In-progress |
