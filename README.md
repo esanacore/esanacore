@@ -45,6 +45,8 @@ A track of my academic journey and technical foundations.
 | QSO 440 | Topics in Project Management | - | In-progress |
 | QSO 355 | Resource Estimation & Scheduling | - | In-progress |
 
+### [CS 499 ePortfolio](https://esanacore.github.io/)
+CS 499: Computer Science Capstone
 ---
 
 ## 🚀 Featured Projects
