@@ -1,75 +1,77 @@
-![Header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Eric%20Sanacore&fontSize=70&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=180&section=header&text=Eric%20Sanacore&fontSize=62&animation=fadeIn)
 
-# Hi there, I'm Eric! 👋
+# Hi, I'm Eric 👋
 
-<!-- CONSTITUTION_START -->
-[![Eric's Engineering Constitution](https://img.shields.io/badge/Eric's%20Engineering%20Constitution-Adopted-blue)](https://github.com/esanacore/engineering-constitution)
-<!-- CONSTITUTION_END -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esanacore)
+[![Engineering Constitution](https://img.shields.io/badge/Engineering%20Constitution-Apache%202.0-blue?style=for-the-badge)](https://github.com/esanacore/engineering-constitution)
 
-I'm a Software Engineer focused on building robust systems, AI-agentic workflows, and automated tools. I maintain **Eric's Engineering Constitution**, a framework for high-standard software development.
+I'm a software-focused engineer with a background that spans hands-on technical work, engineering support, software quality, automation, project leadership, operations, and people management. I build practical tools, systems, and workflows that make technical work more reliable, repeatable, and easier to scale.
 
-## 🛠 Expertise
+My current interests are especially centered on **AI-assisted software engineering**, **developer productivity**, **automation**, **software quality**, **systems integration**, and the boundary between software and real-world hardware.
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![NoSQL](https://img.shields.io/badge/nosql-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Windows](https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github_actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) ![PowerToys](https://img.shields.io/badge/PowerToys-0078D7?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Tkinter](https://img.shields.io/badge/tkinter-FFB000?style=for-the-badge&logo=python&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white) ![Azure](https://img.shields.io/badge/azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
-![AI Engineering](https://img.shields.io/badge/AI_Engineering-FF6F61?style=for-the-badge&logo=openai&logoColor=white) ![Software Testing](https://img.shields.io/badge/Software_Testing-00A4EF?style=for-the-badge&logo=testing-library&logoColor=white) ![QA Automation](https://img.shields.io/badge/QA_Automation-6C63FF?style=for-the-badge&logo=selenium&logoColor=white) ![Systems Design](https://img.shields.io/badge/Systems_Design-2E8B57?style=for-the-badge&logo=diagramsdotnet&logoColor=white) ![Documentation](https://img.shields.io/badge/Documentation-4B0082?style=for-the-badge&logo=readthedocs&logoColor=white) ![Developer Productivity](https://img.shields.io/badge/Developer_Productivity-FF8C00?style=for-the-badge&logo=githubcopilot&logoColor=white)
+## What I Build
 
----
+- Developer tools and workflow automation
+- AI-agent engineering workflows and governance
+- Test and quality automation
+- Hardware/software integration and technical utilities
+- Full-stack, data, and systems projects
+- Experiments that turn interesting technical problems into working software
 
-## 🎓 Academic Coursework
-
-A track of my academic journey and technical foundations.
-
-| Course Code | Course Name | Grade | Status |
-| :--- | :--- | :---: | :--- |
-| IT 140 | Introduction to Scripting | A | Completed |
-| IT 145 | Foundation in Application Development | A | Completed |
-| MAT 230 | Discrete Mathematics | A | Completed |
-| CS 210 | Programming Languages | A | Completed |
-| CS 230 | Operating Platforms | A | Completed |
-| CS 231 | Database Systems | A | Completed |
-| CS 300 | Data Structures and Algorithms | A | Completed |
-| CS 305 | Software Security | A | Completed |
-| CS 320 | Software Test Automation & QA | A | Completed |
-| CS 360 | Mobile Architecture & Programming | A | Completed |
-| CS 370 | Current Trends in Computer Science | A | Completed |
-| CS 465 | Full Stack Development I | A | Completed |
-| MAT 350 | Applied Linear Algebra | A | Completed |
-| CS 250 | Software Development Lifecycle | A | Completed |
-| CS 255 | System Analysis and Design | A | Completed |
-| CS 499 | Computer Science Capstone | - | In-progress |
-| QSO 440 | Topics in Project Management | - | In-progress |
-| QSO 355 | Resource Estimation & Scheduling | - | In-progress |
-
-### CS 499: Computer Science Capstone
-[CS 499 ePortfolio](https://esanacore.github.io/)
----
-
-## 🚀 Featured Projects
+## Featured Projects
 
 ### [Eric's Engineering Constitution](https://github.com/esanacore/engineering-constitution)
-The authoritative framework for AI-assisted software development standards.
+An open-source engineering framework for disciplined AI-assisted software development across coding agents, testing, documentation, architecture, security, CI, and release discipline. Includes bootstrap tooling, governance checkers, agent integrations, reusable templates, an MCP server, and a growing project wiki.
 
 ### [DevLaunchpad](https://github.com/esanacore/DevLaunchpad)
-A Microsoft PowerToys Command Palette extension for managing developer workflows.
+A Microsoft PowerToys Command Palette extension for managing developer workflows. It discovers Git repositories, surfaces branch and stack information, launches development tools and local services, supports custom commands, and can synchronize GitHub repositories in bulk.
 
-### [AI Process Engineer](https://github.com/esanacore/AI-Process-Engineer)
-Local-first desktop application that observes how people perform real-world tasks and turns those observations into actionable organizational knowledge.
+### [SSH Device Manager](https://github.com/esanacore/SSH_DeviceManager)
+A practical tool for organizing and accessing SSH-managed devices, reflecting my interest in infrastructure, remote systems, and small utilities that remove friction from technical work.
 
-### 🎮 🌱 [Project Greenhouse](https://github.com/esanacore/Project-Greenhouse)
-A cozy, realistic plant-care and greenhouse-restoration game about inheritance, patience, and living legacy.
+### [ISTQB Quiz Simulator](https://github.com/esanacore/istqb-quiz-simulator)
+A software-testing study and simulation tool built around structured question practice, combining my software engineering work with a long-running focus on quality and verification.
+
+## Engineering Approach
+
+I like software that is useful in the real world, not just technically interesting. My projects tend to emphasize:
+
+- clear architecture and documentation
+- automated testing and repeatable workflows
+- maintainability and operational awareness
+- thoughtful use of AI coding agents without giving up engineering discipline
+- practical interfaces between software, hardware, infrastructure, and people
+
+That philosophy is formalized in [Eric's Engineering Constitution](https://github.com/esanacore/engineering-constitution), which I use as a reusable standard across my own projects.
+
+## Technical Range
+
+**Languages:** Python, C#, C++, TypeScript/JavaScript, SQL, Shell, PowerShell  
+**Platforms & tools:** Linux, Windows, Git, GitHub Actions, Docker, Visual Studio, VS Code, JetBrains, PowerToys  
+**Areas:** software engineering, test automation, AI-assisted development, developer tooling, full-stack development, databases, systems design, security, and hardware/software integration
+
+## Background
+
+My path into software engineering was not a reset from another career. I've been doing technical work since I was young, including RF/electronics work early in my career, and later held successful roles in departmental management, operations management, project management, and retail/store management.
+
+That mix matters to how I work today: I care about the code, but I also think about users, operations, schedules, risk, maintainability, communication, and whether a solution actually improves the system around it.
+
+## Education
+
+I'm completing a **B.S. in Computer Science** with a **Project Management for STEM minor** at Southern New Hampshire University.
+
+My coursework has covered algorithms and data structures, databases, software security, test automation and QA, mobile development, full-stack development, operating platforms, applied linear algebra, intelligent agents, systems analysis and design, and the software development lifecycle.
+
+### CS 499 Computer Science Capstone
+My current academic ePortfolio is available at [esanacore.github.io](https://esanacore.github.io/). After the capstone is formally complete, I plan to preserve that work as a dedicated academic portfolio while evolving the main site into a broader professional portfolio.
+
+## Selected Academic Repositories
+
+- [CS-300 — Data Structures & Algorithms](https://github.com/esanacore/CS-300)
+- [CS-340 — Client/Server Development](https://github.com/esanacore/CS-340)
+- [CS-465 — Full Stack Development](https://github.com/esanacore/CS-465)
+- [CS-370 — Intelligent Agent](https://github.com/esanacore/CS-370)
 
 ---
 
-<!--
-### Stats (Experimental)
-![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=esanacore&show_icons=true&theme=radical)
--->
-
-“The best way to predict the future is to invent it.”
-
-— Alan Kay
+> “The best way to predict the future is to invent it.” — Alan Kay
