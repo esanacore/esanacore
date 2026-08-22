@@ -46,9 +46,66 @@ That philosophy is formalized in [Eric's Engineering Constitution](https://githu
 
 ## Technical Range
 
-**Languages:** Python, C#, C++, TypeScript/JavaScript, SQL, Shell, PowerShell  
-**Platforms & tools:** Linux, Windows, Git, GitHub Actions, Docker, Visual Studio, VS Code, JetBrains, PowerToys  
-**Areas:** software engineering, test automation, AI-assisted development, developer tooling, full-stack development, databases, systems design, security, and hardware/software integration
+### Languages
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=dotnet&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![SQL](https://img.shields.io/badge/SQL-07405E?style=for-the-badge&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frameworks, Data & APIs
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### Engineering & DevOps
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+### AI & Developer Tools
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![MCP](https://img.shields.io/badge/Model_Context_Protocol-000000?style=for-the-badge&logo=anthropic&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
+![PowerToys](https://img.shields.io/badge/PowerToys-0078D7?style=for-the-badge&logo=windows&logoColor=white)
+
+### Software Engineering Practices
+![Software Testing](https://img.shields.io/badge/Software_Testing-00A4EF?style=for-the-badge&logo=testinglibrary&logoColor=white)
+![QA Automation](https://img.shields.io/badge/QA_Automation-6C63FF?style=for-the-badge&logo=selenium&logoColor=white)
+![Systems Design](https://img.shields.io/badge/Systems_Design-2E8B57?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
+![Software Security](https://img.shields.io/badge/Software_Security-4B0082?style=for-the-badge&logo=owasp&logoColor=white)
+![Documentation](https://img.shields.io/badge/Documentation-4B0082?style=for-the-badge&logo=readthedocs&logoColor=white)
+![Developer Productivity](https://img.shields.io/badge/Developer_Productivity-FF8C00?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Architecture](https://img.shields.io/badge/Software_Architecture-2E8B57?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+### Systems & Hardware
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![SSH](https://img.shields.io/badge/SSH-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-0078D4?style=for-the-badge&logo=cisco&logoColor=white)
+![Hardware Integration](https://img.shields.io/badge/Hardware%2FSoftware_Integration-555555?style=for-the-badge&logo=arduino&logoColor=white)
+![Electronics](https://img.shields.io/badge/Electronics-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![RF](https://img.shields.io/badge/RF_Technology-333333?style=for-the-badge&logo=signal&logoColor=white)
 
 ## Background
 
