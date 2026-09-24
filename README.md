@@ -117,8 +117,8 @@ That mix matters to how I work today: I care about the code, but I also think ab
 
 ## Education
 
-**B.S. in Computer Science**, Southern New Hampshire University (2026)
-Concentration in Project Management for STEM · **GPA 3.92** · President's List
+**B.S. in Computer Science**, Southern New Hampshire University (2026)<br>
+Emphasis in Project Management for STEM · **GPA 3.92** · President's List
 
 My coursework covered algorithms and data structures, databases, software security, test automation and QA, mobile development, full-stack development, operating platforms, computer graphics, applied linear algebra, intelligent agents, systems analysis and design, and the software development lifecycle.
 
