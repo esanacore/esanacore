@@ -3,11 +3,14 @@
 # Hi, I'm Eric 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esanacore)
+[![ePortfolio](https://img.shields.io/badge/ePortfolio-esanacore.github.io-222222?style=for-the-badge&logo=githubpages&logoColor=white)](https://esanacore.github.io/)
 [![Engineering Constitution](https://img.shields.io/badge/Engineering%20Constitution-Apache%202.0-blue?style=for-the-badge)](https://github.com/esanacore/engineering-constitution)
 
-I'm a software-focused engineer with a background that spans hands-on technical work, engineering support, software quality, automation, project leadership, operations, and people management. I build practical tools, systems, and workflows that make technical work more reliable, repeatable, and easier to scale.
+I'm a software engineer with a background that spans hands-on technical work, engineering support, software quality, automation, project leadership, operations, and people management. I build practical tools, systems, and workflows that make technical work more reliable, repeatable, and easier to scale.
 
-My current interests are especially centered on **AI-assisted software engineering**, **developer productivity**, **automation**, **software quality**, **systems integration**, and the boundary between software and real-world hardware.
+**Currently:** Software Engineer in Test in the medical device industry, working on verification and validation, test automation, CI/CD, hardware-in-the-loop systems, and the internal tooling that holds it all together.
+
+My interests center on **AI-assisted software engineering**, **developer productivity**, **automation**, **software quality**, **systems integration**, and the boundary between software and real-world hardware.
 
 ## What I Build
 
@@ -48,7 +51,7 @@ That philosophy is formalized in [Eric's Engineering Constitution](https://githu
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=dotnet&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -77,7 +80,6 @@ That philosophy is formalized in [Eric's Engineering Constitution](https://githu
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ### AI & Developer Tools
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
@@ -92,11 +94,11 @@ That philosophy is formalized in [Eric's Engineering Constitution](https://githu
 ### Software Engineering Practices
 ![Software Testing](https://img.shields.io/badge/Software_Testing-00A4EF?style=for-the-badge&logo=testinglibrary&logoColor=white)
 ![QA Automation](https://img.shields.io/badge/QA_Automation-6C63FF?style=for-the-badge&logo=selenium&logoColor=white)
-![Systems Design](https://img.shields.io/badge/Systems_Design-2E8B57?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
+![Verification & Validation](https://img.shields.io/badge/Verification_%26_Validation-0B7285?style=for-the-badge&logo=checkmarx&logoColor=white)
+![Software Architecture](https://img.shields.io/badge/Software_Architecture-2E8B57?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
 ![Software Security](https://img.shields.io/badge/Software_Security-4B0082?style=for-the-badge&logo=owasp&logoColor=white)
 ![Documentation](https://img.shields.io/badge/Documentation-4B0082?style=for-the-badge&logo=readthedocs&logoColor=white)
 ![Developer Productivity](https://img.shields.io/badge/Developer_Productivity-FF8C00?style=for-the-badge&logo=githubcopilot&logoColor=white)
-![Architecture](https://img.shields.io/badge/Software_Architecture-2E8B57?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ### Systems & Hardware
@@ -115,20 +117,23 @@ That mix matters to how I work today: I care about the code, but I also think ab
 
 ## Education
 
-I'm completing a **B.S. in Computer Science** with a **Project Management for STEM minor** at Southern New Hampshire University.
+**B.S. in Computer Science**, Southern New Hampshire University (2026)
+Concentration in Project Management for STEM · **GPA 3.92** · President's List
 
-My coursework has covered algorithms and data structures, databases, software security, test automation and QA, mobile development, full-stack development, operating platforms, applied linear algebra, intelligent agents, systems analysis and design, and the software development lifecycle.
+My coursework covered algorithms and data structures, databases, software security, test automation and QA, mobile development, full-stack development, operating platforms, computer graphics, applied linear algebra, intelligent agents, systems analysis and design, and the software development lifecycle.
 
-### CS 499 Computer Science Capstone
-My current academic ePortfolio is available at [esanacore.github.io](https://esanacore.github.io/). After the capstone is formally complete, I plan to preserve that work as a dedicated academic portfolio while evolving the main site into a broader professional portfolio.
+I also hold an A.S. in Drafting/CAD (Honors) and two A.A. degrees from Santa Barbara City College, along with the **Google Project Management Professional Certificate**.
+
+### CS 499 Capstone ePortfolio
+My capstone ePortfolio, showcasing enhanced work in software design, algorithms and data structures, and databases, is at [esanacore.github.io](https://esanacore.github.io/).
 
 ## Selected Academic Repositories
 
-- [CS-300 — Data Structures & Algorithms](https://github.com/esanacore/CS-300)
-- [CS-340 — Client/Server Development](https://github.com/esanacore/CS-340)
-- [CS-465 — Full Stack Development](https://github.com/esanacore/CS-465)
-- [CS-370 — Intelligent Agent](https://github.com/esanacore/CS-370)
+- [CS-300: Data Structures & Algorithms](https://github.com/esanacore/CS-300)
+- [CS-340: Client/Server Development](https://github.com/esanacore/CS-340)
+- [CS-465: Full Stack Development](https://github.com/esanacore/CS-465)
+- [CS-370: Intelligent Agent](https://github.com/esanacore/CS-370)
 
 ---
 
-> “The best way to predict the future is to invent it.” — Alan Kay
+> "The best way to predict the future is to invent it." — Alan Kay
